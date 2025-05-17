@@ -5,6 +5,7 @@ seoDescription: "AWS CodePipeline with Terraform and Terraform Cloud(TFE) Backen
 datePublished: Tue May 13 2025 18:54:41 GMT+0000 (Coordinated Universal Time)
 cuid: cmamvfimn000108l26f3a0ufm
 slug: aws-codepipeline-with-terraform-and-terraform-cloudtfe-backend
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747462334073/1d5fc87c-f59a-40fd-ab11-e0950fad5283.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1747162406436/897fef16-ea1d-4098-bc1e-68dfb5efc21b.png
 tags: aws, terraform, codepipeline, terraform-state, terraform-cloud
 
