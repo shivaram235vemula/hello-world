@@ -10,7 +10,7 @@ tags: aws, terraform, codepipeline, terraform-state, terraform-cloud
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1747162168480/7e157ddf-a642-4a3f-89db-a6367b4a2431.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1747461924333/28c0323c-f2f5-493e-a008-77e6b13fea28.png align="center")
 
 ### 🚀 Setting Up a Real-Time AWS CodePipeline with Terraform and Terraform Cloud (TFE) Backend
 
